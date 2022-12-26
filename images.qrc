@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>holod.png</file>
+        <file>cassa.png</file>
+        <file>stelaj.png</file>
+    </qresource>
+</RCC>
